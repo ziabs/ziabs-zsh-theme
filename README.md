@@ -1,7 +1,6 @@
 # ziAbs zsh theme minimal
 
 ## How to add and enable theme
-### Example
 #### ziabs-zsh-theme
 > wget --directory-prefix=/home/${USER}/.oh-my-zsh/custom/themes/ https://raw.githubusercontent.com/ziabs/ziabs-zsh-theme/master/ziabs.zsh-theme
 
